@@ -1,0 +1,24 @@
+C:\Users\FERNANDO\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.deps.json
+C:\Users\FERNANDO\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.dll
+C:\Users\FERNANDO\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.pdb
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.csprojResolveAssemblyReference.cache
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.App.xaml.g.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.MainPage.xaml.g.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.AssemblyInfoInputs.cache
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.AssemblyInfo.cs
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.dll
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.pdb
+C:\Users\FERNANDO\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Tabla.xaml.g.cs
+C:\Proyectos Xamarin\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.deps.json
+C:\Proyectos Xamarin\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.dll
+C:\Proyectos Xamarin\Mont\Mont\Mont\bin\Debug\netstandard2.0\Mont.pdb
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.csprojResolveAssemblyReference.cache
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.csproj.CoreCompileInputs.cache
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.App.xaml.g.cs
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.MainPage.xaml.g.cs
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.Tabla.xaml.g.cs
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.AssemblyInfoInputs.cache
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.AssemblyInfo.cs
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.dll
+C:\Proyectos Xamarin\Mont\Mont\Mont\obj\Debug\netstandard2.0\Mont.pdb

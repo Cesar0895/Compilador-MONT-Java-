@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+            xmlns:syncfusion="clr-namespace:Syncfusion.SfDataGrid.XForms;assembly=Syncfusion.SfDataGrid.XForms"
+             x:Class="Mont.Tabla"
+             Title="Tabla de Simbolos"
+             >
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand">
+
+            <syncfusion:SfDataGrid x:Name="dataGrid"
+                               VerticalOptions="FillAndExpand"
+                               ColumnSizer="Star"
+                               AutoGenerateColumns="True"
+                               AllowSorting="False"
+                               SelectionMode="Single"
+                               ScrollingMode="Line"
+                               >
+
+                <syncfusion:SfDataGrid.Columns x:TypeArguments="syncfusion:Columns">
+
+                    <syncfusion:GridTextColumn HeaderText="Palabra Reservada"
+                                           HeaderFontAttribute="Bold"
+                                           HeaderCellTextSize="25"
+                                           MappingName="Palabra_Reservada" />
+
+                    <syncfusion:GridTextColumn HeaderText="Descripción"
+                                           HeaderFontAttribute="Bold"
+                                           HeaderCellTextSize="25"
+                                           MappingName="Descripcion" />
+
+                    <syncfusion:GridTextColumn HeaderText="N° de Linea"
+                                           HeaderFontAttribute="Bold"
+                                           HeaderCellTextSize="25"
+                                           MappingName="No_Linea" />
+
+                </syncfusion:SfDataGrid.Columns>
+
+            </syncfusion:SfDataGrid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

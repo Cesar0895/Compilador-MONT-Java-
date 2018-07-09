@@ -1,0 +1,1 @@
+C:\Proyectos Xamarin\Mont\Mont\Mont.UWP\Mont.UWP.csproj;x86
