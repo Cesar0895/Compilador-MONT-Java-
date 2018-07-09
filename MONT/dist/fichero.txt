@@ -1,0 +1,47 @@
+Mont programa1;
+	configuracion
+	({
+		[
+		    si(variable1<60)
+		   {
+		
+		   }
+		],
+		[
+		  ciclo(entero contador=0;contador<50;contador++)
+		  {
+
+		  }
+		]
+	});
+
+	Maniobra.iniciar()
+	{
+		si(variable1<60)
+		{?
+		
+		}
+
+		contrario
+		{
+
+		}
+
+		ciclo(entero contador=0;contador<50;contador++)
+		{
+
+		}
+
+		entero variable1;
+
+		define(variable1,200);
+
+		ciclo(entero contador=0;contador<50;contador++)
+		{
+
+		}
+
+		sumarValores();
+
+		Cuchilla.mover();
+	}
